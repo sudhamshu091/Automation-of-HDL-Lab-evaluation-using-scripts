@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/DESim/test/and_gate/sim
+vand_gate
+Z1 !s110 1630267428
+!i10b 1
+!s100 F[QBj2Wb?RY7fmNTZ7aK>0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_:H=NQAKY@CUMXMP<<@OJ3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1630263969
+8../and_gate.v
+F../and_gate.v
+!i122 1
+L0 1 5
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1630267428.000000
+!s107 ../and_tb.v|../and_gate.v|
+Z6 !s90 ../and_gate.v|../and_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+vand_tb
+R1
+!i10b 1
+!s100 :cP7Q9hnIOHIO1l;o[Enf0
+R2
+Igi44_6>XEY]DD3mXVYIXz1
+R3
+R0
+w1630264708
+8../and_tb.v
+F../and_tb.v
+!i122 1
+L0 1 21
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 ../and_tb.v|../and_gate.v|
+R6
+!i113 1
+R7
+vtb
+R1
+!i10b 1
+!s100 lhe2d[7iVCLDhK5z<^zUj2
+R2
+I7DAIe_g?f>PB`TOI`^B]g1
+R3
+R0
+w1610675212
+8../tb/tb.v
+F../tb/tb.v
+!i122 0
+L0 9 44
+R4
+r1
+!s85 0
+31
+R5
+!s107 ../tb/tb.v|
+!s90 ../tb/tb.v|
+!i113 1
+R7
