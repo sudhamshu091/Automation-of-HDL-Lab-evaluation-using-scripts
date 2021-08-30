@@ -1,7 +1,9 @@
-# vsim work.and_tb 
-# Start time: 01:33:57 on Aug 30,2021
+# Reading pref.tcl
+# vsim -gui work.and_tb 
+# Start time: 11:37:28 on Aug 30,2021
 # Loading work.and_tb
 # Loading work.and_gate
 run -all
-# End time: 01:34:10 on Aug 30,2021, Elapsed time: 0:00:13
+run -all
+# End time: 11:38:08 on Aug 30,2021, Elapsed time: 0:00:40
 # Errors: 0, Warnings: 0
