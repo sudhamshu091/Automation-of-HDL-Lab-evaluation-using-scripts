@@ -23,6 +23,7 @@
 
 
 <h3>How to run using cmd promt</h3><br>
+
 - Open cmd promt in path <code>../test/name_of_the_experiment/sim</code><br>
 - type <code>run_compile</code><br>
 - When modelsim opens use run/run all button or type <code>run -all</code> in transcript<br>
